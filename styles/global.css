@@ -3,3 +3,18 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+:root {
+  --brand-color: #EF5F4C;
+  --bg-color: #FFFFFF;
+  --surface-color: #F5F5F5;
+  --skeleton-color: #D9D9D9;
+  --shape-color: #ffffff91;
+  --tprimary-color: #313131;
+  --tsecond-color: #6C6C6C;
+}
+
+body {
+  color: var(--tsecond-color);
+  font-size: 56px;
+}
